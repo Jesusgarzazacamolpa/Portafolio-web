@@ -61,7 +61,7 @@ export const projects: Project[] = [
     description:
       "Una aplicación Spring Boot WebFlux con autenticación JWT y autorización basada en roles para la gestión completa de usuarios.",
     stack: ["Java 21", "Spring Boot"],
-    github: `${GITHUB}/usuarios`,
+    github: `${GITHUB}/mcp-domain`,
     icon: "portal",
     glow: "from-cyan-400/40 via-sky-400/20 to-transparent",
   },
